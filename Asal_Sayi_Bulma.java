@@ -31,6 +31,7 @@ public class Asal_Sayi_Bulma {
         else {
             System.out.println(sayi + " Asal bir sayi degildir.");
         }
+        System.out.println("yeni satir ekledim");
     }
 }
 
